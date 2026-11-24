@@ -1,0 +1,44 @@
+[
+  {
+    "id": 49623,
+    "name": "Shadowmourne",
+    "category": "Armas",
+    "type": "Machado de duas mãos"
+  },
+  {
+    "id": 46017,
+    "name": "Val'anyr, Hammer of Ancient Kings",
+    "category": "Armas",
+    "type": "Maça de uma mão"
+  },
+  {
+    "id": 47241,
+    "name": "Trophy of the Crusade",
+    "category": "Consumíveis",
+    "type": "Token"
+  },
+  {
+    "id": 50730,
+    "name": "Glorenzelg, High-Blade of the Silver Hand",
+    "category": "Armas",
+    "type": "Espada de duas mãos"
+  },
+  {
+    "id": 50603,
+    "name": "Winding Sheet",
+    "category": "Armaduras",
+    "type": "Costas"
+  },
+  {
+    "id": 50363,
+    "name": "Deathbringer's Will",
+    "category": "Acessórios",
+    "type": "Berloque"
+  },
+  {
+    "id": 50364,
+    "name": "Sindragosa's Fury",
+    "category": "Acessórios",
+    "type": "Berloque"
+  }
+]
